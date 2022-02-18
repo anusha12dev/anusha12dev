@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha12dev</h1>
 <h3 align="center">A passionate Developer in Python</h3>
 
+<img allign="left" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance Analytical skills**
